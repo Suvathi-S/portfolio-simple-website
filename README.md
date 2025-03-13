@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-Welcome to my personal portfolio website, designed to showcase my skills, projects, and contact information. 
+Welcome to my  portfolio website, designed to showcase my skills, projects, and contact information. 
 
 The website consists of two primary pages:
 
